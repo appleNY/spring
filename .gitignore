@@ -1,0 +1,7 @@
+# eclipse
+/Servers/
+/RemoteSystemsTempFiles/
+.metadata
+.settings
+.classpath
+.project
